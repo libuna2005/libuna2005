@@ -35,22 +35,15 @@
 
 | Project | Description |
 |---|---|
+| [Tabulation-System](https://github.com/libuna2005/Tabulation-System) | Scoring and tabulation system for pageants and cheerdance events |
 | [Barangay-App-Site](https://github.com/libuna2005/Barangay-App-Site) | Web app for barangay services |
-| [DxDiag](https://github.com/libuna2005/DxDiag) | Add a one-line description here |
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=libuna2005&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=libuna2005&layout=compact&theme=github_dark&hide_border=true" />
-</p>
 
 ## 📫 Let's Work Together
 
 I take freelance website and web system projects for small businesses in Bacolod and nearby areas.
 
-- 📧 Email: libunalanceeduard@gmail.com
-- 💬 Facebook: [Lance Eduard Libuna](https://www.facebook.com/lanceeduard.libuna)
+- 📧 Email: [libunalanceeduard@gmail.com](mailto:libunalanceeduard@gmail.com)
+- 💬 Facebook: [Lance Eduard Libuna](https://facebook.com/your-profile)
 - 🌐 Portfolio: [libuna2005.github.io](https://libuna2005.github.io)
 
 ---
