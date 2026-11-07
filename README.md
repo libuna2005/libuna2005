@@ -43,7 +43,7 @@
 I take freelance website and web system projects for small businesses in Bacolod and nearby areas.
 
 - 📧 Email: [libunalanceeduard@gmail.com](mailto:libunalanceeduard@gmail.com)
-- 💬 Facebook: [Lance Eduard Libuna](https://facebook.com/your-profile)
+- 💬 Facebook: [Lance Eduard Libuna]([https://www.facebook.com/lanceeduard.libuna))
 - 🌐 Portfolio: [libuna2005.github.io](https://libuna2005.github.io)
 
 ---
